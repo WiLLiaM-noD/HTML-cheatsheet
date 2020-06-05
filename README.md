@@ -25,6 +25,7 @@
       <meta name="description" content="description of this page">
       <meta name="keywords" content="keywords">
       <meta name="author" content="name">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link href="style.css" rel="stylesheet" type="text/css">
       <style>
       </style>
@@ -38,14 +39,15 @@ Tag | Description
 ------------ | -------------
 title | Show page title in tab of browser
 meta charset | Specifies the character encoding for the HTML document
-meta description | Use to describe your webpage
+meta description | Use to describe the webpage
 meta keywords | Define keywords for search engines
 meta author | Define the author of the page
+meta viewport | The viewport is the user's visible area of a web page. It varies with the device.
 link | Use to link html with css
 style | Use css inside html (internal-css)
 
 ### Heading
-```
+```html
 <body>
   <h1>This is H1 tag</h1>
   <h2>This is H2 tag</h2>
@@ -64,7 +66,7 @@ This is the output:
 ###### This is H6 tag
 
 ### Paragraph + br tag
-```
+```html
 <body>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
      ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in     
@@ -86,7 +88,7 @@ p | To defines a paragraph
 br | To add brakeline / move text to new line.
 
 ### Text Formatting
-```
+```html
 <body>
   This is sample of <strong>text</strong>.
   <br />
@@ -109,7 +111,7 @@ This is the output:
 </p>
 
 ### HTML Links
-```
+```html
 <body>
   <a href="https://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial</a>
 </body>
@@ -125,7 +127,7 @@ target | specifies where to open the linked document.
 title | attribute specifies extra information about an element.
 
 ### Images
-```
+```html
 <body>
   <img src="https://images.unsplash.com/photo-1531804055935-76f44d7c3621ixlib=rb1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9"
    alt="pic"
@@ -139,7 +141,7 @@ This is the output:
 </p>
 
 ### Lists
-```
+```html
 <body>
   <p>Unordered</p>
   <ul>
@@ -174,7 +176,7 @@ ol | display an ordered list
 li | define each element inside unordered or ordered list
 
 ### Tables
-```
+```html
 <body>
     <table>
       <tr>
@@ -207,3 +209,26 @@ table | define a table
 tr | define each table row
 th | By default, table headings are bold and centered
 td | define table data/cell
+
+### Divs, class, id
+HTML
+```html
+<body>
+  <div class="myDiv" id="div">
+    <h2>This is a heading in a div element</h2>
+    <p>This is some text in a div element.</p>
+   </div>
+</body>
+```
+CSS
+```html
+<style>
+  .myDiv {
+    background-color: aqua;
+    color: black;
+  }   
+  #div {
+    color: blue;
+  }
+</style>
+```
