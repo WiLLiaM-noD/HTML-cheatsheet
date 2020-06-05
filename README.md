@@ -103,3 +103,4 @@ Tag | Description
 </body>
 ```
 This is the output:
+![Text Formatting output](https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png)
