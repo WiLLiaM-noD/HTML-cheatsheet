@@ -296,3 +296,7 @@ checkbox | defines a checkbox
 date | used for input fields that should contain a date (date-picker)
 file | defines a file-select field and a "Browse" button for file upload
 submit | defines a button for submitting form data to a form-handler
+
+source:
+<a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
+<a href="https://developer.mozilla.org/en-US/" target="_blank">Mozilla Developer Network.</a>
