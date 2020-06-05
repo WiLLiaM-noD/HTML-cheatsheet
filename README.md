@@ -14,17 +14,31 @@ Basic HTML 5 Structure
   </html>
 ```
 
-Visual studio code emmet starter template.
-
+Starter code for html template
 ```html
 <!DOCTYPE html>
   <html lang="en">
     <head>
+      <title>Document</title>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Document</title>
+      <meta name="description" content="description of this page">
+      <meta name="keywords" content="keywords">
+      <meta name="author" content="name">
+      <link href="style.css" rel="stylesheet" type="text/css">
+      <style>
+      </style>
     </head>
     <body>
     </body>
 </html>
 ```
+Tag | Description
+------------ | -------------
+title | Show page title in tab of browser
+meta charset | Specifies the character encoding for the HTML document
+meta description | Use to describe your webpage
+meta keywords | Define keywords for search engines
+meta author | Define the author of the page
+link | Use to link html with css
+style | Use css inside html (internal-css)
