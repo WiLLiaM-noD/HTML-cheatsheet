@@ -232,8 +232,46 @@ CSS
   }
 </style>
 ```
+Output:
+<p align="center">
+  <img width="300" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_4.png">
+</p>
+
 The div tag defines a division or a section in an HTML document.
 
 This tag used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
 
 The div tag is easily styled by using the class or id attribute.
+
+### HTML Form
+```
+<form action="#" method="POST">
+   <label>Name</label>
+   <input type="text"><br>
+   <label>Email</label>
+   <input type="email"><br>
+   <label>Password</label>
+   <input type="password"><br>
+   <label>Description</label>
+   <textarea></textarea><br>
+   <input type="checkbox">
+   <label>Remember me</label><br>
+   <label>Login as</label>
+   <select>
+     <option>Student</option>
+     <option>Teacher</option>
+     <option>Staff</option>
+   </select>
+   <br>
+   <label>Login date</label>
+   <input type="date">
+   <br>
+   <label>File submission</label>
+   <input type="file">
+   <br>
+   <input type="submit">
+</form>
+```
+<p align="center">
+  <img width="300" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
+</p>
