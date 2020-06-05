@@ -79,3 +79,27 @@ minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea co
 reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tag | Description
+------------ | -------------
+<p></p> | To defines a paragraph
+<br> | To add brakeline / move text to new line.
+
+### Text Formatting
+```
+<body>
+  This is sample of <strong>text</strong>.
+  <br />
+  This is sample of <em>text</em>.
+  <br />
+  This is sample of <mark>text</mark>.
+  <br />
+  This is sample of <ins>text</ins>.
+  <br />
+  This is sample of <del>text</del>.
+  <br />
+  This is sample of <sup>text</sup>.
+  <br />
+  This is sample of <sub>text</sub>.
+</body>
+```
+This is the output:
