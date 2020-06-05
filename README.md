@@ -122,3 +122,10 @@ Attribute | Description
 ------------ | -------------
 target | specifies where to open the linked document.
 title | attribute specifies extra information about an element.
+
+### Images
+```
+<body>
+  <img src="pic_trulli.jpg" alt="Italian Trulli" />
+</body>
+```
