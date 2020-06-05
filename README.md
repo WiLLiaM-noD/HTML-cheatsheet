@@ -103,4 +103,7 @@ Tag | Description
 </body>
 ```
 This is the output:
+<p align="center">
+  <img width="300" height="300" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png">
+</p>
 ![Text Formatting output](https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png)
