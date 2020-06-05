@@ -1,7 +1,7 @@
 # HTML-cheatsheet
-Basic HTML 5 Tags and how to use it.
+## Basic HTML 5 Tags and how to use it.
 
-Basic HTML 5 Structure
+## Basic HTML 5 Structure
 ```html
 <!DOCTYPE html>
   <html>
@@ -14,7 +14,7 @@ Basic HTML 5 Structure
   </html>
 ```
 
-Starter code for html template
+## Starter code for html template
 ```html
 <!DOCTYPE html>
   <html lang="en">
@@ -43,7 +43,7 @@ meta author | Define the author of the page
 link | Use to link html with css
 style | Use css inside html (internal-css)
 
-Heading
+## Heading
 ```
 <body>
   <h1>This is H1 tag</h1>
@@ -62,7 +62,7 @@ This is the output:
 ##### This is H5 tag
 ###### This is H6 tag
 
-Paragraph + br tag
+## Paragraph + br tag
 ```
 <body>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
