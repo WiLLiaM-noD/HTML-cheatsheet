@@ -136,3 +136,30 @@ This is the output:
 <p align="center">
   <img width="200" height="300" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_2.png">
 </p>
+
+### Lists
+```
+<body>
+  <p>Unordered</p>
+  <ul>
+    <li>Banana</li>
+    <li>Orange</li>
+    <li>Manggo</li>
+  </ul>
+  <p>Ordered</p>
+  <ol>
+    <li>HTML 5</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+  </ol>
+</body>
+```
+The output will look like this
+Unordered
+* Banana
+* ORange
+* Manggo
+Ordered
+1. HTML 5
+2. CSS
+3. Javascript
