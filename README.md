@@ -200,6 +200,7 @@ Output:
 <p align="center">
   <img width="300" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_3.png">
 </p>
+
 Tag | Description
 ------------ | -------------
 table | define a table
