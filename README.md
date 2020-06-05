@@ -2,7 +2,7 @@
 Basic HTML 5 Tags and how to use it.
 
 Basic HTML 5 Structure
-```
+```html
 <!DOCTYPE html>
   <html>
     <head>
