@@ -115,3 +115,8 @@ This is the output:
 ```
 Output:
 [Visit our HTML tutorial](https://www.w3schools.com/html/)
+You can add some attribute to a tag
+Attribute | Description
+------------ | -------------
+target | specifies where to open the linked document.
+title | attribute specifies extra information about an element.
