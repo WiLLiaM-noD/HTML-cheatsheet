@@ -199,3 +199,9 @@ Output:
 <p align="center">
   <img width="300" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_3.png">
 </p>
+Tag | Description
+------------ | -------------
+table | define a table
+tr | define each table row
+th | By default, table headings are bold and centered
+td | define table data/cell
