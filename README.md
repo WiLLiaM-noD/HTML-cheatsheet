@@ -6,10 +6,10 @@
 <!DOCTYPE html>
   <html>
     <head>
-      #This contain title tags, meta-tags, inline-style, css-link, favicon.
+      <!--This contain title tags, meta-tags, inline-style, css-link, favicon.-->
     </head>
     <body>
-      #This contain body elements and will be display on your browser windows
+      <!--This contain body elements and will be display on your browser windows.-->
     </body>
   </html>
 ```
@@ -30,6 +30,7 @@
       </style>
     </head>
     <body>
+      <!--This contain body elements and will be display on your browser windows.-->
     </body>
 </html>
 ```
