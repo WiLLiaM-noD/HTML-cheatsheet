@@ -272,6 +272,27 @@ The div tag is easily styled by using the class or id attribute.
    <input type="submit">
 </form>
 ```
+Output:
 <p align="center">
   <img width="400" height="240" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
 </p>
+
+Tag | Description
+------------ | -------------
+form | defines a form that is used to collect user input
+input | displayed in several ways, depending on the type attribute
+label | defines a label for many form elements
+select | defines a drop-down list
+textarea | defines a multi-line input field (a text area)
+
+Input Type
+
+Type | Description
+------------ | -------------
+text | defines a single-line text input field
+email | defines an email field
+password | defines a password field
+checkbox | defines a checkbox
+date | used for input fields that should contain a date (date-picker)
+file | defines a file-select field and a "Browse" button for file upload
+submit | defines a button for submitting form data to a form-handler
