@@ -81,8 +81,8 @@ reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Tag | Description
 ------------ | -------------
- <p></p> | To defines a paragraph
- <br> | To add brakeline / move text to new line.
+p | To defines a paragraph
+br | To add brakeline / move text to new line.
 
 ### Text Formatting
 ```
@@ -114,7 +114,9 @@ This is the output:
 </body>
 ```
 Output:
+
 [Visit our HTML tutorial](https://www.w3schools.com/html/)
+
 You can add some attribute to a tag
 Attribute | Description
 ------------ | -------------
