@@ -233,5 +233,7 @@ CSS
 </style>
 ```
 The div tag defines a division or a section in an HTML document.
+
 This tag used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+
 The div tag is easily styled by using the class or id attribute.
