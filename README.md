@@ -104,6 +104,14 @@ Tag | Description
 ```
 This is the output:
 <p align="center">
-  <img width="300" height="300" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png">
+  <img width="200" height="200" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png">
 </p>
-![Text Formatting output](https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png)
+
+### HTML Links
+```
+<body>
+  <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+</body>
+```
+Output:
+[w3schools](https://www.w3schools.com/html/)
