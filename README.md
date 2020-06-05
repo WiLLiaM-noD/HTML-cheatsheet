@@ -274,7 +274,7 @@ The div tag is easily styled by using the class or id attribute.
 ```
 Output:
 <p align="center">
-  <img width="400" height="240" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
+  <img width="400" height="300" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
 </p>
 
 Tag | Description
@@ -298,5 +298,7 @@ file | defines a file-select field and a "Browse" button for file upload
 submit | defines a button for submitting form data to a form-handler
 
 source:
+
 <a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
+
 <a href="https://developer.mozilla.org/en-US/" target="_blank">Mozilla Developer Network.</a>
