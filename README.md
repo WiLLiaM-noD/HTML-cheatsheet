@@ -110,12 +110,12 @@ This is the output:
 ### HTML Links
 ```
 <body>
-  <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+  <a href="https://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial</a>
 </body>
 ```
 Output:
 
-[Visit our HTML tutorial](https://www.w3schools.com/html/)
+<a href="https://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial</a>
 
 You can add some attribute to a tag
 Attribute | Description
