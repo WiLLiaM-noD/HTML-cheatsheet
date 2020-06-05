@@ -42,3 +42,22 @@ meta keywords | Define keywords for search engines
 meta author | Define the author of the page
 link | Use to link html with css
 style | Use css inside html (internal-css)
+
+Heading
+```
+<body>
+  <h1>This is H1 tag</h1>
+  <h2>This is H2 tag</h2>
+  <h3>This is H3 tag</h3>
+  <h4>This is H4 tag</h4>
+  <h5>This is H5 tag</h5>
+  <h6>This is H6 tag</h6>
+</body>
+```
+This is the output:
+#This is H1 tag
+##This is H2 tag
+###This is H3 tag
+####This is H4 tag
+#####This is H5 tag
+######This is H6 tag
