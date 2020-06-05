@@ -197,5 +197,5 @@ li | define each element inside unordered or ordered list
 Output:
 
 <p align="center">
-  <img width="400" height="280" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_3.png">
+  <img width="300" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_3.png">
 </p>
