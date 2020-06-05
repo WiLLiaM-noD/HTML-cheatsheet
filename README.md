@@ -234,7 +234,7 @@ CSS
 ```
 Output:
 <p align="center">
-  <img width="400" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_4.png">
+  <img width="500" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_4.png">
 </p>
 
 The div tag defines a division or a section in an HTML document.
@@ -273,5 +273,5 @@ The div tag is easily styled by using the class or id attribute.
 </form>
 ```
 <p align="center">
-  <img width="400" height="150" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
+  <img width="400" height="240" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_5.png">
 </p>
