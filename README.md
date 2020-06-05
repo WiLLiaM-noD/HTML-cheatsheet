@@ -104,7 +104,7 @@ br | To add brakeline / move text to new line.
 ```
 This is the output:
 <p align="center">
-  <img width="200" height="200" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png">
+  <img width="200" height="180" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_1.png">
 </p>
 
 ### HTML Links
@@ -126,6 +126,13 @@ title | attribute specifies extra information about an element.
 ### Images
 ```
 <body>
-  <img src="pic_trulli.jpg" alt="Italian Trulli" />
+  <img src="https://images.unsplash.com/photo-1531804055935-76f44d7c3621ixlib=rb1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9"
+   alt="pic"
+   width="200"
+   height="300"/>
 </body>
 ```
+This is the output:
+<p align="center">
+  <img width="200" height="180" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_2.png">
+</p>
