@@ -165,3 +165,9 @@ Ordered
 1. HTML 5
 2. CSS
 3. Javascript
+
+Tag | Description
+------------ | -------------
+ul | display an unordered list 
+ol | display an ordered list 
+li | define each element inside unordered or ordered list
