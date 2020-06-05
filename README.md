@@ -81,8 +81,8 @@ reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Tag | Description
 ------------ | -------------
-<p></p> | To defines a paragraph
-<br> | To add brakeline / move text to new line.
+ <p></p> | To defines a paragraph
+ <br> | To add brakeline / move text to new line.
 
 ### Text Formatting
 ```
