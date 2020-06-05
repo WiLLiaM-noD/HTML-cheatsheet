@@ -171,3 +171,31 @@ Tag | Description
 ul | display an unordered list 
 ol | display an ordered list 
 li | define each element inside unordered or ordered list
+
+### Tables
+```
+<body>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>address</th>
+        <th>phone number</th>
+      </tr>
+      <tr>
+        <td>John Doe</td>
+        <td>London</td>
+        <td>9210404120</td>
+      </tr>
+      <tr>
+        <td>Sally John</td>
+        <td>Brighton</td>
+        <td>2319092844</td>
+      </tr>
+    </table>
+  </body>
+```
+Output:
+
+<p align="center">
+  <img width="200" height="300" src="https://github.com/WiLLiaM-noD/HTML-cheatsheet/blob/master/Screenshot_3.png">
+</p>
