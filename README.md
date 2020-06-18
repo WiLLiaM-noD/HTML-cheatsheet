@@ -297,6 +297,27 @@ date | used for input fields that should contain a date (date-picker)
 file | defines a file-select field and a "Browse" button for file upload
 submit | defines a button for submitting form data to a form-handler
 
+## Video Tag
+```
+<body>
+	<video controls autoplay loop width="400">
+		<source src="sample.mp4" type="video/mp4>
+		Sorry, your browser doesn't support embedded videos.
+	</video>
+</body>
+```
+
+Tag | Description
+------------ | -------------
+video | embeds a media player which supports video playback into the document
+source | source of the video
+
+Attribute | Description
+------------ | -------------
+controls | allow the user to control video playback, including volume, seeking, and pause/resume playback
+autoplay | video will be autoplay
+loop | video will be play again after video is ended
+
 source:
 
 <a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
